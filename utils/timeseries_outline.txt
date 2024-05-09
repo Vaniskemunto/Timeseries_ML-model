@@ -1,0 +1,35 @@
+1.Business Understanding
+-goal and objectives
+-problem statement
+-stakeholders
+-key metrics and sucess criteria
+-hypothesis
+-analytical questions
+-more information about the project is applicable
+2.Data understanding
+-importation of relevant packages
+-load the dataset of the project
+-perform EDA
+-data validity and cleaning
+-check quick stats about the data(info, head,size,unique values etc
+-reset date feature to datetime and set as index
+-check for the completness of the datasets
+-create new datapoints for the missing days if any
+-interpolate or fill NaN values in accordance with businesss rulesand assumptions
+-univariate analysis
+-bivariate analysis 
+-Decomposition
+-check for stationarity
+-create new features for the dataset and analyse relationship
+-multivariate analysis
+-answer analytical questions with visualization
+-hypothesis testing
+3.Data Preparation
+-split data into train and test datasets appropriately
+-create machine learning pipelines
+add inputations if any
+perform encoding if necessary
+4.Modelling
+-statistical modelling(ARIMA, SARIMA,AR etc
+-machine learning modelling(XGBoost,linearregression
+5.Evaluation
